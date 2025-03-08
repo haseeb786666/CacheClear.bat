@@ -2,12 +2,12 @@
 echo.
 echo This script performs the following actions:
 echo.
-echo  1.) Ends Internet Explorer, Adobe Flash Player and Java processes
-echo  2.) Clears Internet Explorer Temporary Internet Files and Cookies
-echo  3.) Clears DNS Cache
-echo  4.) Clears Adobe Flash Player cache (renames cache directory)
-echo  5.) Clears Java (JRE) Temporary Files (renames cache directory)
-echo  6.) Clears Java Web Start cache and downloaded applets
+echo  
+echo  1.) Clears Internet Explorer Temporary Internet Files and Cookies
+echo  2.) Clears DNS Cache
+echo  3.) Clears Adobe Flash Player cache (renames cache directory)
+echo  4.) Clears Java (JRE) Temporary Files (renames cache directory)
+echo  5.) Clears Java Web Start cache and downloaded applets
 echo.
 echo NOTE: Open websites will be closed. Save your work if needed, then
 pause
